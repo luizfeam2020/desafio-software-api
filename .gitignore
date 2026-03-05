@@ -1,0 +1,6 @@
+/data/*.sqlite
+/data/*.sqlite-wal
+/data/*.sqlite-shm
+/data/*.sqlite-journal
+/.vscode/
+/.idea/
